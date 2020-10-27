@@ -1,27 +1,17 @@
-### Classification of Breast Cancer images type using neural network
+### Blockchain Software Engineering with Ethereum
 
-#### Technology used:
+<p>
+    This repository contains work done as a part of UBC's blockchain software engineering course. We made use of truffle for compiling smart contracts and ganache as a test blockchain for our smart contracts. The contracts were written in Solidity. Testing was done use chai assertion javascript library. The end goal is to design a ReactJs application with blockchain acting as the backend.
+</p>
 
-```
-Python
-```
-
-```
-Keras
-```
+##### List of Contracts :
 
 ```
-Pandas
+Item buying and selling markit contract
 ```
 
 ```
-numpy
+Patient appointment booking system contract
 ```
 
-```
-OpenCV
-```
 
-```
-JSON
-```
